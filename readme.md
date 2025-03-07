@@ -1,4 +1,4 @@
-# Power BI Project README
+# README
 
 ## Dashboard
 - ![Project Dashboard](https://github.com/manez-github/Data-Analysis-on-Data-Professional-Survey-Using-Power-BI/blob/main/Dashboard.png)  
