@@ -1,7 +1,7 @@
 # Power BI Project README
 
 ## Dashboard
-- ![Project Dashboard](D:\My.Projects\Data Analysis on Data Professional Survey Using PowerBI\Dashboard.png)  
+- ![Project Dashboard](https://github.com/manez-github/Data-Analysis-on-Data-Professional-Survey-Using-Power-BI/blob/main/Dashboard.png)  
   *This image shows the main dashboard of the Power BI project.*
 
 ## Project Overview
@@ -10,16 +10,16 @@
 
 ## Contents
 - **Data Source:** 
-  - The data used in this project is sourced from the file: `MultipleFiles/Data Professional Survey.xlsx`.
+  - The data used in this project is derived from a survey of real-time professionals currently working in the data industry.
 - **Methodology Overview:**
-- Performed ETL (Extract, Transform, Load) operations in Power Query to clean and prepare survey data for effective analysis.
-- Created a bar chart to visualize the popularity of different programming languages among data professionals, highlighting industry preferences.
-- Utilized a treemap to show the distribution of survey respondents by country, providing insights into regional trends.
-- Incorporated gauge charts to illustrate average salary satisfaction and work-life balance ratings, providing insights into job satisfaction metrics.
-- Created a donut chart to compare average salaries between genders.
-- Developed a bar chart to showcase average salaries across different job titles, revealing trends in compensation based on role.
-- Included a card visualization displaying the count of survey participants and their average age, providing a quick
-snapshot of the survey demographic.
+  - Performed ETL (Extract, Transform, Load) operations in Power Query to clean and prepare survey data for effective analysis.
+  - Created a bar chart to visualize the popularity of different programming languages among data professionals, highlighting industry preferences.
+  - Utilized a treemap to show the distribution of survey respondents by country, providing insights into regional trends.
+  - Incorporated gauge charts to illustrate average salary satisfaction and work-life balance ratings, providing insights into job satisfaction metrics.
+  - Created a donut chart to compare average salaries between genders.
+  - Developed a bar chart to showcase average salaries across different job titles, revealing trends in compensation based on role.
+  - Included a card visualization displaying the count of survey participants and their average age, providing a quick
+    snapshot of the survey demographic.
 
 ## Installation
 - **Prerequisites:**
